@@ -28,4 +28,4 @@ Let's check out some intuition behind this algorithm for better insights.
 Below is the demo
 
 
-![quickpath](https://drive.google.com/file/d/1mTCGX5DApaPVswtktSgCwUOh-pBH_a1F/view?usp=sharing)
+![quickpath]([https://drive.google.com/file/d/1mTCGX5DApaPVswtktSgCwUOh-pBH_a1F/view?usp=sharing](https://github.com/Yashwanthi19/QuickPath/blob/main/Quick_Path.png))
