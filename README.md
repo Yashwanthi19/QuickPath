@@ -1,11 +1,11 @@
-# Path-Tracer
+# Quick-Path
  [![NodeJS](https://img.shields.io/badge/node-12.14.1-important)](https://img.shields.io/badge/node-12.14.1-important)
  [![NPM](https://img.shields.io/badge/npm-6.13.7-blueviolet)](https://img.shields.io/badge/npm-6.13.7-blueviolet)
  [![Made With React](https://img.shields.io/badge/made%20with-react-61DAFB)](https://img.shields.io/badge/npm-6.13.7-blueviolet) 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) 
 
 ---------------
-### Check out live demo [HERE](https://pathtracer56.netlify.app/)
+### Check out live demo [HERE](https://quickpath.netlify.app/)
 
 ## Overview: 
 This is a project on visualizing path finding algorithm i.e., Dikstra’s algorithm.
@@ -28,4 +28,4 @@ Let's check out some intuition behind this algorithm for better insights.
 Below is the demo
 
 
-![pathtracer](https://github.com/user-attachments/assets/b142ba56-f1a6-458f-8155-28ebc3fd169e)
+![quickpath](https://drive.google.com/file/d/1mTCGX5DApaPVswtktSgCwUOh-pBH_a1F/view?usp=sharing)
