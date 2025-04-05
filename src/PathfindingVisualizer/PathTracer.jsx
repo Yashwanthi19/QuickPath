@@ -86,7 +86,7 @@ export default class PathTracer extends Component {
 
   render() {
     const { grid, mouseIsPressed, pathLength } = this.state;
-    document.title = `WAY FINDER APP`;
+    document.title = `QUICK PATH`;
     return (
       <>
         <div className="navbar">
